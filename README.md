@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection Assignment
 > This project is for classifying images to detect melanoma. The objective is to create a multiclass classification modle using convolutional neural network (CNN) which can detect melanoma.
 
 
